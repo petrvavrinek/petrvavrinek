@@ -1,1 +1,7 @@
 Hello?
+
+
+## Technologies
+
+- JavaScript
+- TypeScript
